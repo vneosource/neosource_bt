@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("NeoSourceCLI")]
-[assembly: AssemblyDescription("CLI for NeoSource")]
+[assembly: AssemblyTitle("NeoSource")]
+[assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("NeoSource")]
-[assembly: AssemblyProduct("NeoSource (fork of Source SDK 2013)")]
-[assembly: AssemblyCopyright("Source SDK Copyright(c) Valve Corp.")]
+[assembly: AssemblyCompany("")]
+[assembly: AssemblyProduct("NeoSource")]
+[assembly: AssemblyCopyright("Copyright ©  2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("176a3c0c-46ba-4d01-b73a-d4f162f76825")]
+[assembly: Guid("aa3701cb-ca02-47da-831e-51624989b48d")]
 
 // Version information for an assembly consists of the following four values:
 //

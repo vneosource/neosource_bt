@@ -1,3 +1,6 @@
 [submodule "DarkUI"]
 	path = DarkUI
 	url = https://github.com/vneosource/DarkUI
+[submodule "SharpVPK"]
+	path = SharpVPK
+	url = https://github.com/vneosource/SharpVPK.git
